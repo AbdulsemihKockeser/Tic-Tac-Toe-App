@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="homeTile">Tic-Tac-Toe Oyununa Hoşgeldiniz</string>
+    <string name="playButton">OYUNA BAŞLA</string>
+
+
+    <string name="PlayerSetupTitle">OYUNCULAR</string>
+    <string name="Label1">Oyuncu 1</string>
+    <string name="Label2">Oyuncu 2</string>
+    <string name="SubmitButton">Oyuncuları Kaydet</string>
+    <string name="NameHint">Oyuncu Adı</string>
+
+    <string name="playAgainbutton">Tekrar Oyna</string>
+    <string name="homeButton">Ana Sayfa</string>
+
+
+
+
+
+</resources>
